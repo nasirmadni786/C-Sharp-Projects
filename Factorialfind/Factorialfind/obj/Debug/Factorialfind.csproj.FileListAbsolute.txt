@@ -1,0 +1,7 @@
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Factorialfind\Factorialfind\bin\Debug\Factorialfind.exe
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Factorialfind\Factorialfind\bin\Debug\Factorialfind.pdb
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Factorialfind\Factorialfind\obj\Debug\Factorialfind.csprojResolveAssemblyReference.cache
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Factorialfind\Factorialfind\obj\Debug\Factorialfind.MainForm.resources
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Factorialfind\Factorialfind\obj\Debug\Factorialfind.csproj.GenerateResource.Cache
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Factorialfind\Factorialfind\obj\Debug\Factorialfind.exe
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Factorialfind\Factorialfind\obj\Debug\Factorialfind.pdb
