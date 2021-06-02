@@ -1,0 +1,7 @@
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\FindSum\FindSum\bin\Debug\FindSum.exe
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\FindSum\FindSum\bin\Debug\FindSum.pdb
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\FindSum\FindSum\obj\Debug\FindSum.csprojResolveAssemblyReference.cache
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\FindSum\FindSum\obj\Debug\FindSum.exe
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\FindSum\FindSum\obj\Debug\FindSum.pdb
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\FindSum\FindSum\obj\Debug\FindSum.MainForm.resources
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\FindSum\FindSum\obj\Debug\FindSum.csproj.GenerateResource.Cache
