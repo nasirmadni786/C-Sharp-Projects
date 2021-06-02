@@ -1,0 +1,7 @@
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Even&Odd\Even&Odd\bin\Debug\Even&Odd.exe
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Even&Odd\Even&Odd\bin\Debug\Even&Odd.pdb
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Even&Odd\Even&Odd\obj\Debug\Even&Odd.csprojResolveAssemblyReference.cache
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Even&Odd\Even&Odd\obj\Debug\Even_Odd.MainForm.resources
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Even&Odd\Even&Odd\obj\Debug\Even&Odd.csproj.GenerateResource.Cache
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Even&Odd\Even&Odd\obj\Debug\Even&Odd.exe
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Even&Odd\Even&Odd\obj\Debug\Even&Odd.pdb
