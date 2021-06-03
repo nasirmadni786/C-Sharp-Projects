@@ -1,0 +1,7 @@
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Addition&&Subtraction\Addition&&Subtraction\obj\Debug\Addition&&Subtraction.csprojResolveAssemblyReference.cache
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Addition&&Subtraction\Addition&&Subtraction\obj\Debug\Addition__Subtraction.MainForm.resources
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Addition&&Subtraction\Addition&&Subtraction\obj\Debug\Addition&&Subtraction.csproj.GenerateResource.Cache
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Addition&&Subtraction\Addition&&Subtraction\bin\Debug\Addition&&Subtraction.exe
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Addition&&Subtraction\Addition&&Subtraction\bin\Debug\Addition&&Subtraction.pdb
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Addition&&Subtraction\Addition&&Subtraction\obj\Debug\Addition&&Subtraction.exe
+C:\Users\Tech Tips\Documents\SharpDevelop Projects\Addition&&Subtraction\Addition&&Subtraction\obj\Debug\Addition&&Subtraction.pdb
